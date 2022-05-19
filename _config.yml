@@ -4,7 +4,7 @@ bio:                'COO의 코딩 창고.'
 description:        "1일 1커밋은 욕심이고 3일 1커밋이라도."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/profile.png'
+logo:               'assets/img/profile.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             ko_KR
