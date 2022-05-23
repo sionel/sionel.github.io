@@ -46,7 +46,7 @@ Apply the `third` class like so to display three images side by side that share 
 
 {% highlight html %}
 <figure class="third">
-	<img src="/images/image-filename-1.jpg">
+	<img src="/assets/img/profile.jpg">
 	<img src="/images/image-filename-2.jpg">
 	<img src="/images/image-filename-3.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
@@ -56,7 +56,7 @@ Apply the `third` class like so to display three images side by side that share 
 And you'll get something that looks like this:
 
 <figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
+	<img src="/assets/img/profile.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<figcaption>Three images.</figcaption>
